@@ -1,0 +1,44 @@
+
+.page{
+
+width: 780px;
+margin: auto;
+font-family:'Source sans pro',Calibri,  Tahoma, sans-serif;
+font-size:22px ;
+
+}
+
+.infophoto{
+	height:250px;
+}
+.info{
+	float: center ;
+}
+.photo{
+
+	float: right;
+}
+.section{
+
+	margin-bottom:70px ;
+	text-align: justify;
+}
+.section-gauche{
+font-weight: bold;
+	float:left;
+font-size:20px;
+}
+
+.section-droite{
+margin-left: 150px;
+	
+}
+
+h2{
+font-size:28px;
+	color: #3388BB;
+border-bottom: 3px solid #3388DD;
+	
+}
+
+
